@@ -20,12 +20,10 @@ build/
 # Logs
 *.log
 
-# OS files
+# OS
 .DS_Store
 Thumbs.db
 
-# Environment files
+# Environment
 .env
-
-# Spring Boot local configuration
 application-local.properties
